@@ -1,0 +1,13 @@
+Python Developer
+
+Skills Required:
+Python
+Machine Learning
+Deep Learning
+TensorFlow
+Pandas
+NumPy
+SQL
+Git
+Problem Solving
+Communication Skills
